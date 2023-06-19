@@ -11,7 +11,7 @@ My dream is to write a book about what I know.
 | Game      | Environment | Application                 |
 |-----------|-------------|-----------------------------|
 | 2048      |  [gym-game2048](https://github.com/helpingstar/gym-game2048)   | [rl-application-gym-game2048](https://github.com/helpingstar/rl-application-gym-game2048) |
-| Woodoku   |  [gym-woodoku](https://github.com/helpingstar/gym-woodoku)     |                             |
+| Woodoku   |  [gym-woodoku](https://github.com/helpingstar/gym-woodoku)     |     ...ing                |
 | SnakeGame |  [gym-snakegame](https://github.com/helpingstar/gym-snakegame) |                             |
 
 
