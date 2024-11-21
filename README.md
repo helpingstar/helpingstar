@@ -1,11 +1,3 @@
-My name is Wooseong Park. It means a helping star⭐. It's also my nickname.
-
-I am interested in **RL**, especially **Game AI**. I enjoy implementing the game as a RL environment and clearing it with AI.
-
-I also write about what I have studied on my [**Blog**](https://helpingstar.github.io/) in Korean.
-
-My dream is to write a book about what I know.
-
 ### Project
 
 | Game | Env | Env-JAX | training | application |
